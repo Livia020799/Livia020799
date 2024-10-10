@@ -35,7 +35,7 @@ Hi, I’m **Livia**, a Data Science Master’s student at Sapienza University of
 - **JLPT N4** (Japanese Language Proficiency Test), obtained in 2022
 - **Cambridge English Level 2 Certificate in ESOL International (Advanced - C1)**, issued in November 2020
 - **IELTS (B2)**, issued in July 2017
-- **Udemy Certificate**: [View Certificate](https://www.udemy.com/certificate/UC-c6de2670-2f5f-4f37-a5ab-44f1c18a2f0a/)
+- **Udemy Certificate In Python for Data Science and Machine Learning**: [View Certificate](https://www.udemy.com/certificate/UC-c6de2670-2f5f-4f37-a5ab-44f1c18a2f0a/)
 
 ---
 
