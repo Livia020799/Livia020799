@@ -1,4 +1,6 @@
-# Livia Oddi
+# Hi there, I'm Livia ! 👋🏻
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Livia020799.README.md)
 
 ### Data Science | Frontend Development | Researcher | Digital Design Enthusiast | PhD Aspirant
 
@@ -19,6 +21,13 @@ Hi, I’m **Livia**, a Data Science Master’s student at Sapienza University of
 
 - **CyberHack4AI**:
   My team and I secured **2nd place** at the **CyberHack4AI hackathon**, held at Sapienza University of Rome in October 2024. Our project, **StudentBridge**, is an AI-powered platform designed to support international students moving to Rome by providing centralized information on housing, legal documentation, and university processes. You can check out the full project [here](https://github.com/Livia020799/Cyberhack4AI_2024).
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Livia020799&show_icons=true&theme=ambient_gradient&bg_color=DEG,00A3E0,003A70" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Livia020799" />
+</a>
 
 ---
 
@@ -53,13 +62,13 @@ Feel free to reach out if you're interested in collaboration, research, or just 
 
 <span style="display: inline-block; vertical-align: middle;">
   <a href="https://github.com/Livia020799" style="text-decoration: none;">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50" style="border: none vertical-align: middle;"/>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="60" height="60" style="border: none vertical-align: middle;"/>
   </a>
   <a href="https://www.linkedin.com/in/livia-oddi-87b6a325b/" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn" width="50" height="50" style="border: none vertical-align: middle;"/>
+    <img src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" alt="LinkedIn" width="60" height="60" style="border: none vertical-align: middle;"/>
   </a>
   <a href="mailto:oddi.1846085@studenti.uniroma1.it" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=100&id=Cjuj2uISMdQ1&format=png&color=000000" alt="Email" width="55" height="55" style="border: none vertical-align: middle;"/>
+    <img src="https://img.icons8.com/?size=100&id=Cjuj2uISMdQ1&format=png&color=000000" alt="Email" width="60" height="60" style="border: none vertical-align: middle;"/>
   </a>
 </span>
 
