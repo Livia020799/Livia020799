@@ -1,6 +1,5 @@
 # Hi there, I'm Livia ! 👋🏻
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Livia020799.README.md)
 
 ### Data Science | Frontend Development | Researcher | Digital Design Enthusiast | PhD Aspirant
 
