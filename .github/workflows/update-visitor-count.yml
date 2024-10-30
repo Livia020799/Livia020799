@@ -1,0 +1,22 @@
+name: Update Visitor Count
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Allows manual triggering of the action
+
+jobs:
+  update-visitor-count:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update README
+        uses: actions/github-script@v3
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            const filePath = path.join(process.env.GITHUB_WORKSPACE, 'README.md');
+            let content = fs.readFileSync(filePath, 'utf8');
+            const visitorBadge = `![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Livia020799.your-repo-name)`;
+            content = content.replace(/Visitor Count/g, visitorBadge);
+            fs.writeFileSync(filePath, content);
