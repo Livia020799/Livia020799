@@ -51,6 +51,17 @@ I am also passionate about the **Hikikomori phenomenon**, which I researched dur
 
 Feel free to reach out if you're interested in collaboration, research, or just to discuss shared interests.
 
-- **GitHub**: [Livia020799](https://github.com/Livia020799)
-- **LinkedIn**: [Livia Oddi](https://www.linkedin.com/in/livia-oddi-87b6a325b/)
-- **Email**: oddi.1846085@studenti.uniroma1.it
+<span style="display: inline-block; vertical-align: middle;">
+  <a href="https://github.com/Livia020799" style="text-decoration: none;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50" style="border: none vertical-align: middle;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/livia-oddi/" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="LinkedIn" width="50" height="50" style="border: none vertical-align: middle;"/>
+  </a>
+  <a href="mailto:oddi.1846085@studenti.uniroma1.it" style="text-decoration: none;">
+    <img src="https://img.icons8.com/?size=100&id=Cjuj2uISMdQ1&format=png&color=000000" alt="Email" width="55" height="55" style="border: none vertical-align: middle;"/>
+  </a>
+</span>
+
+
+
