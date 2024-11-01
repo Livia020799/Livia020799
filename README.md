@@ -1,5 +1,6 @@
 # Hi there, I'm Livia ! 👋🏻
 
+![](https://komarev.com/ghpvc/?username=Livia020799&label=STARGAZER+NUMBER+)
 
 ### Data Science | Frontend Development | Researcher | Digital Design Enthusiast | PhD Aspirant
 
@@ -27,8 +28,6 @@ Hi, I’m **Livia**, a Data Science Master’s student at Sapienza University of
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Livia020799" />
 </a>
-
-*`Reference for the GitHub stats`* : [anuraghazra](https://github.com/anuraghazra)
 
 ---
 
@@ -73,5 +72,9 @@ Feel free to reach out if you're interested in collaboration, research, or just 
   </a>
 </span>
 
+---
 
+## Credits
+- *`GitHub statistics`* : [@anuraghazra](https://github.com/anuraghazra) <br>
+- *`Profile counts badge`* : [@antonkomarev](https://github.com/antonkomarev) <br>
 
