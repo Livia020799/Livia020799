@@ -28,6 +28,8 @@ Hi, I’m **Livia**, a Data Science Master’s student at Sapienza University of
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Livia020799" />
 </a>
 
+*`Reference for the GitHub stats`* : [anuraghazra](https://github.com/anuraghazra)
+
 ---
 
 ## 🙌 **More About Me**
