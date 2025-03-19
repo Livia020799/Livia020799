@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Livia020799&label=STARGAZER+NUMBER+)
 
-### Data Science | Frontend Development | Researcher | Digital Design Enthusiast | PhD Aspirant
+### Data Science | Frontend Development | LLMs | Researcher | Digital Design Enthusiast | PhD Aspirant |
 
 Hi, I’m **Livia**, a Data Science Master’s student at Sapienza University of Rome. My interests span from frontend development and digital illustrations to research on health and behavioral science. I'm passionate about using data-driven approaches and creative design to solve complex real-world problems, especially those related to human behavior, health promotion, and technology.
 
@@ -52,7 +52,9 @@ Hi, I’m **Livia**, a Data Science Master’s student at Sapienza University of
 
 I am currently pursuing an **MSc in Data Science** at Sapienza University of Rome, where I am exploring areas such as machine learning, statistical modeling, and Bayesian analysis. My goal is to apply these skills in diverse fields, from public health to technology, with a focus on meaningful impact.
 
-I am also passionate about the **Hikikomori phenomenon**, which I researched during my Bachelor's thesis. I aspire to continue this work and pursue a **PhD in Japan**, where I can delve deeper into this sociocultural issue. I hold a **JLPT N4** certification in Japanese (2022) and aim to build a research career in Japan.
+I am also passionate about the **Hikikomori phenomenon**, which I researched during my Bachelor's thesis. I aspire to continue this work and pursue a **PhD in Japan**, where I can delve deeper into this sociocultural issue. I hold a **JLPT N4** certification in Japanese (2022) and aim to build a research career in Japan. 
+
+Recently, going toward the end of my Master's degree, LLMs (Large Language Models) have also sparked my interest. Languages have always fascinated me, and I've noticed that working with languages and AI models is incredibly interesting and holds a lot of potential.
 
 ---
 
