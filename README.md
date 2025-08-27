@@ -54,7 +54,7 @@ I am currently pursuing an **MSc in Data Science** at Sapienza University of Rom
 
 I am also passionate about the **Hikikomori phenomenon**, which I researched during my Bachelor's thesis. I aspire to continue this work and pursue a **PhD in Japan**, where I can delve deeper into this sociocultural issue. I hold a **JLPT N4** certification in Japanese (2022) and aim to build a research career in Japan. 
 
-Recently, going toward the end of my Master's degree, LLMs (Large Language Models) have also sparked my interest. Languages have always fascinated me, and I've noticed that working with languages and AI models is incredibly interesting and holds a lot of potential.
+Recently, going toward the end of my Master's degree, ***LLMs (Large Language Models) have also sparked my interest***. Languages have always fascinated me, and I've noticed that working with languages and AI models is incredibly interesting and holds a lot of potential.
 
 ---
 
