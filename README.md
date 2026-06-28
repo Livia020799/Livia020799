@@ -2,23 +2,52 @@
 
 ![](https://komarev.com/ghpvc/?username=Livia020799&label=STARGAZER+NUMBER+)
 
-### Data Science | Frontend Development | LLMs | Researcher | Digital Design Enthusiast | PhD Aspirant |
+### AI Research | Data Science | Frontend Development | Large Language Models | Mechanistic Interpretability | Computational Creativity | PhD Aspirant
 
-Hi, I’m **Livia**, a Data Science Master’s student at Sapienza University of Rome. My interests span from frontend development and digital illustrations to research on health and behavioral science. I'm passionate about using data-driven approaches and creative design to solve complex real-world problems, especially those related to human behavior, health promotion, and technology.
+Hi, I’m **Livia**, an MSc graduate in **Data Science** from **Sapienza University of Rome**.
+
+My research interests lie at the intersection of **Natural Language Processing**, **Large Language Models (LLMs)**, **Computational Creativity**, and **Mechanistic Interpretability**. I am particularly interested in understanding how language models generate creative text, how humans perceive AI-generated content, and whether creativity-related behaviours can be linked to interpretable internal representations.
+
+My Master's thesis focused on **AI-generated Japanese haiku**, combining computational creativity, human evaluation, and Japanese NLP to investigate authorship attribution, perceived humanness, and aesthetic judgments of AI-generated poetry. This work naturally led me toward **Mechanistic Interpretability**, where I hope to better understand how creative behaviours emerge inside language models and how they can eventually be interpreted and controlled.
+
+Alongside my AI research, I also collaborate on projects related to **physical activity, health, and behavioural science**, contributing to evidence synthesis and research on health-promoting interventions.
 
 ---
 
 ## 💻 **Tech Interests and Projects**
 
+* **AI Research**
+
+  My main research currently focuses on **Large Language Models**, **Mechanistic Interpretability**, and **Computational Creativity**.
+
+  My interests include:
+
+  * Large Language Models
+  * Natural Language Processing
+  * Mechanistic Interpretability
+  * Sparse Autoencoders
+  * Activation Steering
+  * Representation Learning
+  * Human Evaluation of AI-generated text
+  * Japanese NLP
+  * Controllable Text Generation
+    
 - **Frontend Development**: 
   I’ve been exploring frontend development through beginner-level projects focused on **animations** and smaller interface designs. You can check out these projects [here](https://github.com/stars/Livia020799/lists/frontend-animation). While they are not full web applications, they’ve allowed me to practice key skills in HTML, CSS, and JavaScript.
 
 - **Digital Illustration and Design**: 
   In addition to my technical projects, I’m passionate about **digital illustrations and design**. I’ve created several design projects and websites, which I showcase on my [personal website](https://livia263.webnode.it/). You can also see more of my work on my Instagram profile [@wakai.design](https://www.instagram.com/wakai.design?igsh=MW1nZGF6ZnN5OWgwdg==).
 
-- **Research**:
-  I am currently involved in the **DE-PASS Best Evidence Statement (BESt)** project, which is part of the research initiative [DE-PASS](https://depass.eu/). This project focuses on identifying modifiable determinants of physical activity and sedentary behavior in older adults aged over 65. The goal is to create a multidisciplinary network of stakeholders to better understand these determinants and translate this knowledge into actionable, user-friendly tools that help policy makers promote healthier environments.
+* **Research**
 
+  Alongside my AI research, I am also involved in multidisciplinary research related to **physical activity, health, and behavioural science**.
+
+  My recent collaborations include:
+
+  * **[DE-PASS](https://depass.eu/) COST Action**, contributing to evidence synthesis on modifiable determinants of physical activity and sedentary behaviour in older adults, with the goal of supporting healthier environments and evidence-based policy making.
+
+  * **HOPE Project**, focusing on physical education and health-related support for children and adolescents in hospital-school settings through systematic evidence synthesis.
+    
 - **CyberHack4AI**:
   My team and I secured **2nd place** at the **CyberHack4AI hackathon**, held at Sapienza University of Rome in October 2024. Our project, **StudentBridge**, is an AI-powered platform designed to support international students moving to Rome by providing centralized information on housing, legal documentation, and university processes. You can check out the full project [here](https://github.com/Livia020799/Cyberhack4AI_2024).
 
@@ -33,9 +62,11 @@ Hi, I’m **Livia**, a Data Science Master’s student at Sapienza University of
 
 ## 🙌 **More About Me**
 
-- 🥋 I'm a **brown belt** in judo, which I’ve practiced as of October 2024 for 10 years. Judo has instilled in me resilience, discipline, and a constant drive for improvement—qualities that I apply to both my academic and professional pursuits.
+- 🥋 I'm a **brown belt** in judo, which I’ve practiced as of June 2026 for 11 years. Judo has instilled in me resilience, discipline, and a constant drive for improvement, qualities that I apply to both my academic and professional pursuits.
 
 - 🎹🎻 Music has been a key part of my life. I’ve been playing the **piano since I was 8**, and I also played the **violin** during middle school. This blend of technical and creative outlets helps me balance my logical side with artistic expression.
+
+- 🇯🇵 I have a strong interest in **Japanese language and culture**, which has shaped both my academic journey and my research path toward Japanese NLP, AI-generated haiku, and computational creativity.
 
 ---
 
@@ -50,11 +81,17 @@ Hi, I’m **Livia**, a Data Science Master’s student at Sapienza University of
 
 ## 🔍 **Current Focus**
 
-I am currently pursuing an **MSc in Data Science** at Sapienza University of Rome, where I am exploring areas such as machine learning, statistical modeling, and Bayesian analysis. My goal is to apply these skills in diverse fields, from public health to technology, with a focus on meaningful impact.
+I recently graduated with an **MSc in Data Science** from Sapienza University of Rome, where I explored machine learning, statistical modelling, Bayesian analysis, and Natural Language Processing.
 
-I am also passionate about the **Hikikomori phenomenon**, which I researched during my Bachelor's thesis. I aspire to continue this work and pursue a **PhD in Japan**, where I can delve deeper into this sociocultural issue. I hold a **JLPT N4** certification in Japanese (2022) and aim to build a research career in Japan. 
+During the final stage of my Master's degree, **Large Language Models** became the central focus of my research. Languages have always fascinated me, and I realized that combining linguistics with AI opened fascinating opportunities to study creativity from both computational and human perspectives.
 
-Recently, going toward the end of my Master's degree, ***LLMs (Large Language Models) have also sparked my interest***. Languages have always fascinated me, and I've noticed that working with languages and AI models is incredibly interesting and holds a lot of potential.
+This led to my Master's thesis on **AI-generated Japanese haiku**, where I investigated how humans perceive AI-generated poetry, authorship attribution, and the factors influencing perceived humanness. More recently, this work has evolved into a growing interest in **Mechanistic Interpretability**, with the goal of understanding how creativity-related behaviours emerge inside language models and whether they can be interpreted, evaluated, and eventually controlled.
+
+At the same time, I continue collaborating on research in **health, physical activity, and behavioural science**, applying evidence synthesis methods to projects such as **DE-PASS** and **HOPE**, which investigate interventions promoting healthier lifestyles and educational support for children and adolescents in hospital settings.
+
+I also explored the **Hikikomori phenomenon**, during my Bachelor's thesis. Understanding how social, cultural, and technological factors influence human behaviour remains one of my long-term interests and continues to inspire the interdisciplinary perspective I bring to my research.
+
+My academic path has also been strongly shaped by Japan. During my studies, I had the opportunity to be an **exchange research student at [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/index.html) in Tokyo**, an experience that strengthened both my interest in Japanese NLP and my motivation to continue developing my research career both in Italy and in Japan.
 
 ---
 
