@@ -1,17 +1,43 @@
-# Hi there, I'm Livia ! 👋🏻
-
+# Hi there, I'm Livia! 👋🏻
 ![](https://komarev.com/ghpvc/?username=Livia020799&label=STARGAZER+NUMBER+)
 
-### AI Research | Data Science | Frontend Development | Large Language Models | Mechanistic Interpretability | Computational Creativity | PhD Aspirant
+### PhD Student @ Shibaura Institute of Technology | AI Research | Large Language Models | Mechanistic Interpretability | Computational Creativity | Japanese NLP
 
-Hi, I’m **Livia**, an MSc graduate in **Data Science** from **Sapienza University of Rome**.
+Hi, I'm **Livia**, a **PhD student at Shibaura Institute of Technology (SIT)** in Tokyo, Japan, and an **MSc graduate in Data Science from Sapienza University of Rome**.
 
-My research interests lie at the intersection of **Natural Language Processing**, **Large Language Models (LLMs)**, **Computational Creativity**, and **Mechanistic Interpretability**. I am particularly interested in understanding how language models generate creative text, how humans perceive AI-generated content, and whether creativity-related behaviours can be linked to interpretable internal representations.
+My research lies at the intersection of **Natural Language Processing**, **Large Language Models (LLMs)**, **Computational Creativity**, and **Mechanistic Interpretability**.
 
-My Master's thesis focused on **AI-generated Japanese haiku**, combining computational creativity, human evaluation, and Japanese NLP to investigate authorship attribution, perceived humanness, and aesthetic judgments of AI-generated poetry. This work naturally led me toward **Mechanistic Interpretability**, where I hope to better understand how creative behaviours emerge inside language models and how they can eventually be interpreted and controlled.
+I am particularly interested in understanding how language models generate creative text, how humans perceive AI-generated content, and whether creativity-related behaviours can be identified and influenced through interpretable internal representations.
 
-Alongside my AI research, I also collaborate on projects related to **physical activity, health, and behavioural science**, contributing to evidence synthesis and research on health-promoting interventions.
+My Master's thesis investigated **AI-generated Japanese haiku**, combining computational creativity, human evaluation, and Japanese NLP to explore authorship attribution, perceived humanness, and aesthetic judgments of AI-generated poetry.
 
+Building on this research, my current PhD work explores **Mechanistic Interpretability and Activation Steering**, investigating how internal representations of language models relate to creative language generation and how they might be used to influence model behaviour.
+
+Alongside my AI research, I collaborate on interdisciplinary projects involving **physical activity, health, and behavioural science**, particularly through evidence synthesis and research on health-promoting interventions.
+
+---
+
+## 🎤 Conference Presentations
+
+I have had the opportunity to present research from my Master's thesis on **AI-generated Japanese haiku, computational creativity, and human evaluation** at two academic conferences in Japan.
+
+**November 2026 — SCIS & ISIS 2026**
+
+*Joint 14th International Conference on Soft Computing and Intelligent Systems and 27th International Symposium on Advanced Intelligent Systems*
+
+📍 Tokyo Tama Mirai Messe, Hachioji, Tokyo, Japan — November 2–5, 2026
+
+- **Presentation:** *Authorship Attribution and Aesthetic Evaluation of AI Poetry: A Case Study with Haiku*
+- Investigated human perceptions of AI-generated Japanese haiku, focusing on aesthetic evaluation, perceived humanness, and the ability to distinguish AI-generated from human-written poetry.
+- [Conference website](https://scisisis.github.io/scis-isis-2026/)
+
+**March 2026 — 88th National Convention of the Information Processing Society of Japan (IPSJ)**
+
+📍 Matsuyama University, Bunkyo Campus, Matsuyama, Ehime, Japan — March 6–8, 2026
+
+- Presented research developed during my Master's thesis on AI-generated Japanese haiku and computational creativity.
+- [Conference website](https://www.ipsj.or.jp/event/taikai/88/english/index.html)
+  
 ---
 
 ## 💻 **Tech Interests and Projects**
@@ -81,18 +107,21 @@ Alongside my AI research, I also collaborate on projects related to **physical a
 
 ## 🔍 **Current Focus**
 
-I recently graduated with an **MSc in Data Science** from Sapienza University of Rome, where I explored machine learning, statistical modelling, Bayesian analysis, and Natural Language Processing.
+I hold an **MSc in Data Science** from **Sapienza University of Rome**, where I explored machine learning, statistical modelling, Bayesian analysis, and Natural Language Processing.
 
 During the final stage of my Master's degree, **Large Language Models** became the central focus of my research. Languages have always fascinated me, and I realized that combining linguistics with AI opened fascinating opportunities to study creativity from both computational and human perspectives.
 
-This led to my Master's thesis on **AI-generated Japanese haiku**, where I investigated how humans perceive AI-generated poetry, authorship attribution, and the factors influencing perceived humanness. More recently, this work has evolved into a growing interest in **Mechanistic Interpretability**, with the goal of understanding how creativity-related behaviours emerge inside language models and whether they can be interpreted, evaluated, and eventually controlled.
+This led to my Master's thesis on **AI-generated Japanese haiku**, where I investigated how humans perceive AI-generated poetry, authorship attribution, and the factors influencing perceived humanness. I had the opportunity to present this research at the **88th National Convention of the Information Processing Society of Japan (IPSJ)** in March 2026 and at **SCIS & ISIS 2026** in Hachioji, Japan, in November 2026.
+
+More recently, this work has evolved into my current research interests in **Mechanistic Interpretability**, with the goal of understanding how creativity-related behaviours emerge inside language models and whether they can be interpreted, evaluated, and eventually controlled.
 
 At the same time, I continue collaborating on research in **health, physical activity, and behavioural science**, applying evidence synthesis methods to projects such as **DE-PASS** and **HOPE**, which investigate interventions promoting healthier lifestyles and educational support for children and adolescents in hospital settings.
 
-I also explored the **Hikikomori phenomenon**, during my Bachelor's thesis. Understanding how social, cultural, and technological factors influence human behaviour remains one of my long-term interests and continues to inspire the interdisciplinary perspective I bring to my research.
+I also explored the **Hikikomori phenomenon** during my Bachelor's thesis. Understanding how social, cultural, and technological factors influence human behaviour remains one of my long-term interests and continues to inspire the interdisciplinary perspective I bring to my research.
 
-My academic path has also been strongly shaped by Japan. During my studies, I had the opportunity to be an **exchange research student at [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/index.html) in Tokyo**, an experience that strengthened both my interest in Japanese NLP and my motivation to continue developing my research career both in Italy and in Japan.
+My academic path has also been strongly shaped by Japan. During my studies, I had the opportunity to be an **exchange research student at [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/index.html) in Tokyo**, an experience that strengthened both my interest in Japanese NLP and my motivation to continue developing my research career in Japan.
 
+What began as an exchange experience has now become a new chapter of my academic journey, as I am currently pursuing my **PhD at Shibaura Institute of Technology**, continuing to explore the intersection of language, artificial intelligence, and creativity.
 ---
 
 ## 📫 **Let's Connect!**
